@@ -24,6 +24,7 @@ A cheat sheet/study guide for Oxford's <a href="https://www.cs.ox.ac.uk/people/e
 There are a lot of difficult problems in computer science. Many of them we can only solve probabilistically. Others we can solve faster using a probabilistic algorithm, with either no hit to accuracy or a controlled hit bound by some error $\epsilon$ and probability of being within that bound $\delta$.
 
 #### Table of Contents
+* THIS IS JUST 8 WEEKS!!!!!!!!!
 * <a href="">Indicator Variables and Linearity of Expectation</a>
 * <a href="">Concentration Bounds</a>
 	* <a href="">Chernoff Bounds</a>
