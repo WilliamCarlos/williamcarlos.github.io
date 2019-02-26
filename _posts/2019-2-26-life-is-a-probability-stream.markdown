@@ -42,7 +42,7 @@ We're going to take a quick detour into the land of sampling and counting. Calcu
 We'll dive deeper into sampling and counting methods later.
 
 #### $\epsilon$-uniform Sampling
-I like this topic a lot because it starts very intuitively and by adding just a little bit of machinery, we can build the tools to solve some NP-hard problems. **$\epsilon$-uniform sampling**, in particular, seems to be a very useful tool.
+I like this topic a lot because it starts very intuitively and by adding just a little bit of machinery, we can build the tools to solve some NP-hard problems. Very elegant. You'd think Monte Carlo algorithms would tend to be quite brute-forcey but oftentimes they're actually quite pretty. **$\epsilon$-uniform sampling**, in particular, seems to be a very useful tool.
 
 relevent excerpt from Oxford's probability class (please don't sue me Oxford)
 
