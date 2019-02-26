@@ -28,3 +28,23 @@ Diving into _<a href="http://proceedings.mlr.press/v37/blundell15.pdf">Weight Un
 * **Bayes by Backprop**: Proposed algorithm to learn distribution of on weights.
 * **Variational Free Energy**: AKA compression cost, expected lower bound on marginal likelihood. 
 * **Unbiased Monte Carlo estimate of the gradients**
+
+#### Variational Free Energy
+You know the kid you never thought you'd see again? Okay gang, let's see what variational free energy really is... Chemistry??! (This looks insane you should <a href="https://slideplayer.com/slide/6553758/">check it out later</a> @self).
+
+First, let's understand <a href="https://physics.stackexchange.com/questions/149493/gibbs-free-energy-intuition">Gibb's free energy</a>. "I want a math-free explanation. Can anyone simply explain?"??? (big mood).
+
+water my seeds til the flower just grow
+
+We learned about martingales but I still don't really understand them. Here are two famous ones to look into. Moving right along...
+
+#### Cool Topics / Articles / Refreshers
+* <a href="https://www.statisticshowto.datasciencecentral.com/em-algorithm-expectation-maximization/">MLE vs. EM</a>
+* <a href="https://www.theanalysisfactor.com/what-is-a-latent-variable/">Latent Variables</a>
+* <a href="http://mlg.eng.cam.ac.uk/teaching/4f13/1819/">Cambridge Probabilistic Machine Learning</a>
+* <a href="">Gibb's Sampling (& other MCMC methods</a>
+* <a href="http://www.cs.toronto.edu/~fritz/absps/emk.pdf">Variational Free Energy (Neal, Hinton (1998))</a>
+* <a href="https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo">Markov Chain Monte Carlo</a>
+* <a href="https://www.cs.toronto.edu/~radford/research.html">Neal's Research Interests (are lit)</a>
+* <a href=""></a>
+
