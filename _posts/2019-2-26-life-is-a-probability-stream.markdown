@@ -47,7 +47,7 @@ I like this topic a lot because it starts very intuitively and by adding just a 
 relevent excerpt from Oxford's probability class (please don't sue me Oxford)
 
 In general, we call these algorithms **Fully Polytime Approximation Scheme** and **Fully Polytime Uniform Sampling Scheme**. Really the *fully polytime* is redundant within the context of these notes. *All* algorithms here are going to be polytime. Once we open up complexity classes to exponential, deterministic algorithms probably exist. I do
-n't even want to meet a problem that results in an exponential-time randomized algorithm. Wew lad. So let's shorten the names. We have a randomized **Approximation Scheme** and a randomized **Uniform Sampling Scheme**. We also have a theorem that states you can create any approximation scheme if you are given a uniform sampling scheme. Which makes sense. A quote from class was, "if you can sample it, you can count it".
+n't even want to meet a problem that results in an exponential-time randomized algorithm. Wew lad. So let's shorten the names. We have a randomized **Approximation Scheme** and a randomized **Uniform Sampling Scheme**. We also have a theorem that states you can create any approximation scheme if you are given a uniform sampling scheme. Which makes sense. A quote from class was, "if you can sample it, you can count it". [insert elias photo + quote]
 
 And it looks like it telescopes away. Coolio. Moving right along.
 
