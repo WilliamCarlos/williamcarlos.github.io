@@ -25,6 +25,7 @@ There are a lot of difficult problems in computer science. Many of them we can o
 
 #### Table of Contents
 * THIS IS JUST 8 WEEKS!!!!!!!!!
+* the concepts don't get that much harder; people just get shit at explaining (or even writing)
 * <a href="">Secretary Problem</a>
 * <a href="">Indicator Variables and Linearity of Expectation</a>
 * <a href="">Concentration Bounds</a>
@@ -55,8 +56,14 @@ n't even want to meet a problem that results in an exponential-time randomized a
 
 And it looks like it telescopes away. Coolio. Moving right along.
 
-#### DNF Counting and an Exponentially Small Target
-mit ocw
+#### Estimating Area and Exponentially Small Target
+Some other attempts at explaining this.
+https://www2.cs.duke.edu/courses/spring18/compsci630/lecture21.pdf
+https://ocw.mit.edu/courses/mathematics/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/lecture-notes/MIT18_409F09_scribe5.pdf
+http://people.csail.mit.edu/ghaffari/AA17/Notes/S5.pdf
+
+#### Changing the Sample Space and Monte Carlo DNF
+We need to sample from a smaller/denser space to avoid the limitations of inverse area sampling.
 
 #### Topics to Cover
 Set balancing, martingales, Markov Chains and Stationary Distributions, mixing times, sampling and counting, balls and bins, permutations, secretary problem, MCMC, resevoir sampling, abacadabra & [] martingales, random walks/gambler's ruin
