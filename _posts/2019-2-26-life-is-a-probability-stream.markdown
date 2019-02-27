@@ -64,6 +64,8 @@ http://people.csail.mit.edu/ghaffari/AA17/Notes/S5.pdf
 
 #### Changing the Sample Space and Monte Carlo DNF
 We need to sample from a smaller/denser space to avoid the limitations of inverse area sampling.
+https://imada.sdu.dk/~jbj/DM839/FL13.pdf
+Instead of sampling IN UNION vs OUT OF UNION, we sample #CANONICAL (i.e. non-duplicate) / #IN MULTI-SET.
 
 #### Topics to Cover
 Set balancing, martingales, Markov Chains and Stationary Distributions, mixing times, sampling and counting, balls and bins, permutations, secretary problem, MCMC, resevoir sampling, abacadabra & [] martingales, random walks/gambler's ruin
