@@ -25,10 +25,14 @@ There are a lot of difficult problems in computer science. Many of them we can o
 
 #### Table of Contents
 * THIS IS JUST 8 WEEKS!!!!!!!!!
+* <a href="">Secretary Problem</a>
 * <a href="">Indicator Variables and Linearity of Expectation</a>
 * <a href="">Concentration Bounds</a>
 	* <a href="">Chernoff Bounds</a>
 * <a href="">Sampling and Counting</a>
+
+#### Secretary Problem
+Listen up chaps. This will help you get married.
 
 #### Indicator Variables and Linearity of Expectation
 One of our most powerful tools.
@@ -50,6 +54,9 @@ In general, we call these algorithms **Fully Polytime Approximation Scheme** and
 n't even want to meet a problem that results in an exponential-time randomized algorithm. Wew lad. So let's shorten the names. We have a randomized **Approximation Scheme** and a randomized **Uniform Sampling Scheme**. We also have a theorem that states you can create any approximation scheme if you are given a uniform sampling scheme. Which makes sense. A quote from class was, "if you can sample it, you can count it". [insert elias photo + quote]
 
 And it looks like it telescopes away. Coolio. Moving right along.
+
+#### DNF Counting and an Exponentially Small Target
+mit ocw
 
 #### Topics to Cover
 Set balancing, martingales, Markov Chains and Stationary Distributions, mixing times, sampling and counting, balls and bins, permutations, secretary problem, MCMC, resevoir sampling, abacadabra & [] martingales, random walks/gambler's ruin
