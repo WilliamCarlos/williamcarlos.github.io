@@ -27,6 +27,7 @@ There are a lot of difficult problems in computer science. Many of them we can o
 * THIS IS JUST 8 WEEKS!!!!!!!!!
 * the concepts don't get that much harder; people just get shit at explaining (or even writing)
 * defining decade
+* there's something very relaxing about coding... flow... get lost
 * <a href="">Secretary Problem</a>
 * <a href="">Indicator Variables and Linearity of Expectation</a>
 * <a href="">Concentration Bounds</a>

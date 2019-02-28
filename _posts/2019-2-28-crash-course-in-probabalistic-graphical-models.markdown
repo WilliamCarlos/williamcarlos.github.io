@@ -27,3 +27,11 @@ Probabilistic Graphical Models seem cool.
 * <a href="">Sampling and Counting</a>
 
 #### Graphical Models
+yote
+
+#### Markov Chains, MCMC Sampling, Metropolis Algorithm
+#### Monte Carlo Sampling / Rejection Sampling / Importance Sampling
+pgm notes
+
+#### Gibbs Sampling
+dgm

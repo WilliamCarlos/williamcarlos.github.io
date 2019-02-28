@@ -26,7 +26,7 @@ Diving into _<a href="http://proceedings.mlr.press/v37/blundell15.pdf">Weight Un
 
 #### Abstract
 * **Bayes by Backprop**: Proposed algorithm to learn distribution of on weights.
-* **Bayesian Inference**: Intractable
+* **Bayesian Inference**: Intractable. There's a whole field on *approximate bayesian learning*
 * **Variational Inference (ELBO)**: what is elbo
 * **Variational Free Energy**: AKA compression cost, expected lower bound on marginal likelihood. 
 * **Unbiased Monte Carlo estimate of the gradients**
