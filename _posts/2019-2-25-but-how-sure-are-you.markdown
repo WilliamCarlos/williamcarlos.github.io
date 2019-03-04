@@ -40,7 +40,12 @@ water my seeds til the flower just grow
 
 We learned about martingales but I still don't really understand them. Here are two famous ones to look into. Moving right along...
 
-**Quick Implementation Note**: NCHW = batch size, channels, height, width. Contiguous storage.
+#### Implementation Notes
+* NCHW = batch size, channels, height, width. Contiguous storage.
+* **ReLU**: Looked <a href="https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function">suspiciously linear</a>.
+
+
+
 #### Cool Topics / Articles / Refreshers
 * <a href="https://www.statisticshowto.datasciencecentral.com/em-algorithm-expectation-maximization/">MLE vs. EM</a>
 * <a href="https://www.theanalysisfactor.com/what-is-a-latent-variable/">Latent Variables</a>
