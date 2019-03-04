@@ -45,6 +45,8 @@ We learned about martingales but I still don't really understand them. Here are 
 #### Implementation Notes
 * NCHW = batch size, channels, height, width. Contiguous storage.
 * **ReLU**: Looked <a href="https://datascience.stackexchange.com/questions/26475/why-is-relu-used-as-an-activation-function">suspiciously linear</a>.
+	* **Steep Gradient**   link papers
+	* **Sparse**
 * MLP
 
 
