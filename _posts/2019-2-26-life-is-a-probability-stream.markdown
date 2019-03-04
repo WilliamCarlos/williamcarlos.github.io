@@ -20,6 +20,10 @@ categories: jekyll update
 
 A cheat sheet/study guide for Oxford's <a href="https://www.cs.ox.ac.uk/people/elias.koutsoupias/pc2018-19/">Probability & Computing</a> course. Probably the most engaging (and frustrating) course I've taken so far. Disgustingly yet beautifully theoretical. Hopefully I'll get some practical examples up soon...
 
+Maybe Useful: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_chap19.pdf
+https://www.cs.rice.edu/~as143/COMP441_Spring16/scribe/lect2.pdf
+https://www.cs.cmu.edu/afs/cs/academic/class/15859-f04/www/scribes/lec9.pdf
+
 #### Motivations
 There are a lot of difficult problems in computer science. Many of them we can only solve probabilistically. Others we can solve faster using a probabilistic algorithm, with either no hit to accuracy or a controlled hit bound by some error $\epsilon$ and probability of being within that bound $\delta$.
 
@@ -70,6 +74,9 @@ Set Coverage (union of sets) problem
 We need to sample from a smaller/denser space to avoid the limitations of inverse area sampling.
 https://imada.sdu.dk/~jbj/DM839/FL13.pdf
 Instead of sampling IN UNION vs OUT OF UNION, we sample #CANONICAL (i.e. non-duplicate) / #IN MULTI-SET.
+
+#### Coupling Markov Chains
+i dont understand this
 
 #### Topics to Cover
 Set balancing, martingales, Markov Chains and Stationary Distributions, mixing times, sampling and counting, balls and bins, permutations, secretary problem, MCMC, resevoir sampling, abacadabra & [] martingales, random walks/gambler's ruin
