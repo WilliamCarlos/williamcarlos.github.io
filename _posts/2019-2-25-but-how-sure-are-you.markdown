@@ -49,6 +49,19 @@ We learned about martingales but I still don't really understand them. Here are 
 	* **Sparse**
 * MLP
 
+#### On Convolutional Layers
+I didn't really understand why they combined all these things into a single condensed line in an introductary tutorial (convolution with ReLU followed by pooling).
+For someone more experienced with convolutional neural network architectures maybe it's more obvious, but to me it wasn't. Not the reasoning behind it anyways.
+
+{% highlight python %}
+x = F.max_pool2d(F.relu(self.conv1(x)), (2,2))
+{% endhighlight %}
+
+Convolution is linear, so we must <a href="nn&dl.com">apply a non-linear activation function afterwards</a> (otherwise deep learning just like, doesn't work, bro). And then we pool to control parameter explosion. Cull the weak as they say... bippity boop. That's the 1-2-3 punch. The triple attack. Always keep 'em together.
+
+
+#### On SGD
+Read up: https://en.wikipedia.org/wiki/Stochastic_gradient_descent
 
 #### Cool Topics / Articles / Refreshers
 * <a href="https://www.statisticshowto.datasciencecentral.com/em-algorithm-expectation-maximization/">MLE vs. EM</a>
