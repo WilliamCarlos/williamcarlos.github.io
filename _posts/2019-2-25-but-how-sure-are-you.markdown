@@ -21,6 +21,7 @@ categories: jekyll update
 Diving into _<a href="http://proceedings.mlr.press/v37/blundell15.pdf">Weight Uncertainty in Neural Networks (Blundell et al.)</a>_.
 
 **(lemme into grad school LET ME INNNNNNNNNNNNNN)**
+Variational Autoencoder
 
 #### The Big Idea
 * Instead of some scalar $c \in \mathbb{R}$ for each weight of the neural network, we build a distribution over each weight and (and hidden unit).
