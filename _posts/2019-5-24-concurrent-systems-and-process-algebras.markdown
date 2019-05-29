@@ -19,6 +19,10 @@ categories: jekyll update
 </script>
 
 #### Table of Contents
+
+* Why Study Process Algebras
+It's definitely an acquired taste. You can do things like *measure* non-determinism. 
+
 * What is a concurrent system?
 Life is a concurrent system. (Sounds dramatic, I know, but bear with me, it's actually not a bad example). When most people think of computers, you think of a computation machine that processes things sequentially. For example, when you run a script on your computer, it executes... sequentially. In life, the things you do are done, by and large, sequentially. Birth -> Kindergarten -> High School -> College -> #CubicleLyfe -> Retirement -> Death. Breakfast -> Classes -> Lunch -> Homework -> Dinner -> Game of Thrones -> Sleep.
 
@@ -37,6 +41,7 @@ This is but one example/type of synchronization (called *Alphebatized Synchroniz
 We tackle the study of these interactions between sequential systems from a (very) theoretical standpoint. We build an algebra, called a *process algebra*, to represent these systems. From this theory we can understand how these concurrent systems will behave, whether they meet program specifications. How to solve puzzles by building concurrent models.
 
 The most interesting part of this area of computer science, in my opinion, is how something so theoretical (we'll literally biuld an algebra fam) can be applied to model real world systems, and solve puzzles. 
+
 
 * Process Algebras
 * Communicating Sequential Processes
